@@ -1,1 +1,1 @@
-# React-Redux-Practice3
+This folder contains 3rd part of the practice files related to React and Redux.
